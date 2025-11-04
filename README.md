@@ -1,2 +1,15 @@
 # EPPO
-Official implementation of `Overcoming Non-stationary Dynamics with Evidential Proximal Policy Optimization`
+Official implementation of Overcoming Non-stationary Dynamics with Evidential Proximal Policy Optimization
+
+## Cite
+If you use EPPO, please cite:
+
+```
+@article{akgul2025overcoming,
+  title={Overcoming Non-stationary Dynamics with Evidential Proximal Policy Optimization},
+  author={Akg{\"u}l, Abdullah and Baykal, Gulcin and Hau{\ss}mann, Manuel and Kandemir, Melih},
+  journal={Transactions on Machine Learning Research},
+  year={2025},
+  url={https://openreview.net/forum?id=KTfTwxsVNE},
+}
+```
