@@ -1,5 +1,5 @@
 # EPPO
-Official implementation of Overcoming Non-stationary Dynamics with Evidential Proximal Policy Optimization
+Evidential Proximal Policy Optimization, modified for use with Google Colab. An implementation of vanilla PPO has been added in the interest of supporting experiments.
 
 ## Cite
 If you use EPPO, please cite:
